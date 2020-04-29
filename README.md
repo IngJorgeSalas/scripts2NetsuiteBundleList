@@ -8,7 +8,7 @@ it goes through subfolders
 [Download](https://github.com/IngJorgeSalas/scripts2NetsuiteBundleList/raw/master/script2bundleList.exe)
 
 # Instructions
-1. is recommended copy the scripts to analyze to a new folder.
+1. (optional) is recommended copy the scripts to analyze to a new folder.
 2. put the exe file on the folder with the scripts
 3.(optional) to add the name/description to the output file, export the list of fields and records from netsuite and add them to the folder, the file name must follow the next rules  
   
