@@ -1,8 +1,12 @@
 # scripts2NetsuiteBundleList
 when working with large projects in netsuite, tracking the items to put in a bundle becomes complicated, this software creates a bundle list from a bunch of scripts
 
-only searches for fields records and scripts
-it goes through subfolders
+only searches for fields records and scripts  
+it goes through subfolders  
+
+# Download
+[Download](/script2bundleList.exe)
+
 # Instructions
 1. is recommended copy the scripts to analyze to a new folder.
 2. put the exe file on the folder with the scripts
