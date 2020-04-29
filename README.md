@@ -5,7 +5,7 @@ only searches for fields records and scripts
 it goes through subfolders  
 
 # Download
-[Download](/script2bundleList.exe)
+[Download](/raw/master/script2bundleList.exe)
 
 # Instructions
 1. is recommended copy the scripts to analyze to a new folder.
